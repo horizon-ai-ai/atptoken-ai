@@ -7,6 +7,7 @@ Disallow: /signin/
 Disallow: /signup/
 Disallow: /forgot/
 Disallow: /reset/
+Disallow: /reset-password/
 Disallow: /onboarding/
 Disallow: /invitations/
 Disallow: /billing/
@@ -21,6 +22,7 @@ Disallow: /signin/
 Disallow: /signup/
 Disallow: /forgot/
 Disallow: /reset/
+Disallow: /reset-password/
 Disallow: /onboarding/
 Disallow: /invitations/
 Disallow: /billing/
